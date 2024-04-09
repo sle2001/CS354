@@ -1,12 +1,12 @@
 /******************************************************************************
  * @file: functions.c
  *
- * WISC NETID
- * CANVAS USERNAME
- * WISC ID NUMBER
+ * sle6
+ * Steven Le
+ * 908 226 4376
  * OTHER COMMENTS FOR THE GRADER (OPTIONAL)
  *
- * @creator: YOUR PREFERED NAME (YOUR WISC EMAIL)
+ * @creator: Steven Le (sle6@wisc.edu)
  * @modified: SUBMISSION DATE
  *****************************************************************************/
 #include <stdio.h>
